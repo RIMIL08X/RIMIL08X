@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="120" viewBox="0 0 854 120">
+  <defs>
+    <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4ade80"/> <!-- bright teal -->
+      <stop offset="50%" stop-color="#3b82f6"/> <!-- vivid blue -->
+      <stop offset="100%" stop-color="#9333ea"/> <!-- violet -->
+    </linearGradient>
+  </defs>
+
+  <!-- Animated Waves Background -->
+  <g transform="translate(427, 60) scale(1,1) translate(-427, -60)">
+    <path fill="url(#linear)" opacity="0.25">
+      <animate attributeName="d" dur="20s" repeatCount="indefinite"
+        keyTimes="0;0.333;0.667;1"
+        calcMode="spline"
+        keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+        values="M0 0L0 40Q213.5 80 427 50T854 75L854 0 Z;
+                M0 0L0 65Q213.5 80 427 60T854 50L854 0 Z;
+                M0 0L0 85Q213.5 55 427 85T854 50L854 0 Z;
+                M0 0L0 40Q213.5 80 427 50T854 75L854 0 Z"/>
+    </path>
+    <path fill="url(#linear)" opacity="0.25">
+      <animate attributeName="d" dur="20s" repeatCount="indefinite"
+        keyTimes="0;0.333;0.667;1"
+        calcMode="spline"
+        keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+        begin="-10s"
+        values="M0 0L0 55Q213.5 100 427 70T854 80L854 0 Z;
+                M0 0L0 70Q213.5 40 427 40T854 60L854 0 Z;
+                M0 0L0 65Q213.5 45 427 70T854 85L854 0 Z;
+                M0 0L0 55Q213.5 100 427 70T854 80L854 0 Z"/>
+    </path>
+  </g>
+
+  <!-- Centered Outro Text -->
+  <text x="50%" y="65" text-anchor="middle" font-size="48" font-weight="700" font-family="Fira Code, monospace" fill="#FFFFFF">
+    Thanks For Visiting!
+  </text>
+</svg>
