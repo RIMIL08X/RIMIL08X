@@ -1,9 +1,8 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code_700&pause=1000&color=37C800&background=0F1DC500&center=true&width=500&lines=Welcome+To+My+Workstation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code_900&size=60&height=150&pause=500&color=37C800&background=0F1DC500&center=true&width=1400&lines=Welcome+To+My+Workstation" />
   </a>
 </p>
-
 
 Hi, I’m Rimil 👋
 
