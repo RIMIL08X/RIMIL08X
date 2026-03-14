@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="120" viewBox="0 0 854 120">
+  <defs>
+    <linearGradient id="waveGrad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="50%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#f472b6"/>
+    </linearGradient>
+    <linearGradient id="waveGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#34d399"/>
+      <stop offset="50%" stop-color="#60a5fa"/>
+      <stop offset="100%" stop-color="#c084fc"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="854" height="120" fill="#0f172a"/>
+
+  <path fill="url(#waveGrad1)" opacity="0.7">
+    <animate attributeName="d" dur="20s" repeatCount="indefinite"
+      keyTimes="0;0.333;0.667;1"
+      calcMode="spline"
+      keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+      values="M0 0L0 40Q213.5 80 427 50T854 75L854 0 Z;
+              M0 0L0 65Q213.5 80 427 60T854 50L854 0 Z;
+              M0 0L0 85Q213.5 55 427 85T854 50L854 0 Z;
+              M0 0L0 40Q213.5 80 427 50T854 75L854 0 Z"/>
+  </path>
+
+  <path fill="url(#waveGrad2)" opacity="0.55">
+    <animate attributeName="d" dur="20s" repeatCount="indefinite"
+      keyTimes="0;0.333;0.667;1"
+      calcMode="spline"
+      keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+      begin="-10s"
+      values="M0 0L0 55Q213.5 100 427 70T854 80L854 0 Z;
+              M0 0L0 70Q213.5 40 427 40T854 60L854 0 Z;
+              M0 0L0 65Q213.5 45 427 70T854 85L854 0 Z;
+              M0 0L0 55Q213.5 100 427 70T854 80L854 0 Z"/>
+  </path>
+
+  <text x="50%" y="68" text-anchor="middle" font-size="42" font-weight="700" font-family="Fira Code, monospace" fill="#ffffff">
+    Thanks For Visiting!
+  </text>
+</svg>
