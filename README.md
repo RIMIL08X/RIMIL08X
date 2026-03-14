@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code_700&pause=1000&color=37C800&background=0F1DC500&center=true&width=500&lines=Welcome+To+My+Craftstation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code_700&pause=1000&color=37C800&background=0F1DC500&center=true&width=500&lines=Welcome+To+My+Workstation" />
   </a>
 </p>
 
@@ -118,8 +118,19 @@ This repository showcases my projects, experiments, and code snippets, reflectin
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-<picture>
-![github-snake](https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg)
-</picture>
+<div align="left">
+  <img 
+    src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" 
+    alt="github-snake" 
+    width="1000"
+  />
+</div>
 
-![Thanks For Visiting](https://raw.githubusercontent.com/RIMIL08X/RIMIL08X/main/outro.svg)
+<div align="center" style="width:100%">
+  <img 
+    src="https://raw.githubusercontent.com/RIMIL08X/RIMIL08X/main/outro.svg" 
+    alt="Thanks For Visiting" 
+    width="100%"
+  />
+</div>
+
