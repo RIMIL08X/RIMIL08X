@@ -1,4 +1,10 @@
-# 💫 About Me:
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code_700&pause=1000&color=37C800&background=0F1DC500&center=true&width=500&lines=Welcome+To+My+Craftstation" />
+  </a>
+</p>
+
+
 Hi, I’m Rimil 👋
 
 I’m a B.Tech Computer Science student with a passion for Data Engineering, Machine Learning, and scalable software solutions. I enjoy building end-to-end systems, optimizing pipelines, and turning complex problems into clean, maintainable code.
